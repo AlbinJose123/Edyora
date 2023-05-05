@@ -1,3 +1,5 @@
+# Python program to get the Fibonacci series between 0 to 50
+
 num = int(input("Enter a number: "))
 #print("The Fibonacci series : ", end=" ")
 num1 = 0
